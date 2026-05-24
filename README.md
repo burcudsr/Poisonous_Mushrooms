@@ -3,7 +3,7 @@
 This project focuses on the binary classification of mushrooms as edible or poisonous, developed during the **Kaggle Playground Series - Season 4, Episode 8**. The model leverages physical and environmental characteristics to accurately categorize mushroom species.
 
 ### 🚀 Live Demo
-Explore the interactive prediction model here: https://huggingface.co/spaces/bdaser/Mushroom
+Explore the interactive prediction model here: **[Mushroom Classification AI](https://huggingface.co/spaces/bdaser/Mushroom)**
 
 ### 📊 Dataset & Preprocessing
 The dataset provides a rich set of categorical features representing mushroom attributes. Key preprocessing steps include:
